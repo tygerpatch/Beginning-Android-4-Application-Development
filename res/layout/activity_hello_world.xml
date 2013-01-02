@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<!-- page 24, 25 -->
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical" >
@@ -8,7 +10,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/hello" />
-    
+
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -18,5 +20,5 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="And this is a clickable button!" />
-    
+
 </LinearLayout>
