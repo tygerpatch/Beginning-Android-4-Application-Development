@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Window;
 
+// page 38
 public class Activity101Activity extends Activity {
   String tag = "Lifecycle";
 

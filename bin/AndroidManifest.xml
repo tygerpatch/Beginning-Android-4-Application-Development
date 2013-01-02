@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.Activity101Activity"
+            android:name="net.learn2develop.Activity101.Activity101Activity"
             android:label="@string/title_activity_activity101" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

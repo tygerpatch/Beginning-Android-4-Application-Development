@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+// page 45, 46, 48, 49
 public class DialogActivity extends Activity {
   CharSequence[] items = { "Google", "Apple", "Microsoft" };
   boolean[] itemsChecked = new boolean[items.length];
