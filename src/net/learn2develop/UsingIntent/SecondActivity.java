@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+// page 55, 60, 61
 public class SecondActivity extends Activity {
 
   @Override

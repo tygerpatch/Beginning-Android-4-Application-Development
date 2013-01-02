@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.DialogActivity"
+            android:name="net.learn2develop.Dialog.DialogActivity"
             android:label="@string/title_activity_dialog" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -41,7 +41,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.SecondActivity"
+            android:name="net.learn2develop.UsingIntent.SecondActivity"
             android:label="@string/title_activity_second" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
