@@ -1,5 +1,6 @@
 package net.learn2develop.Fragments;
 
+import net.learn2develop.R;
 import android.app.Activity;
 import android.app.Fragment;
 import android.os.Bundle;
@@ -9,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 public class Fragment1 extends Fragment {
-  
+
   @Override
   public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
     Log.d("Fragment 1", "onCreateView");
