@@ -12,5 +12,10 @@
     <string name="title_activity_using_intent">UsingIntentActivity</string>
     <string name="title_activity_passing_data">PassingDataActivity</string>
     <string name="title_activity_second_activity2">SecondActivity2</string>
+    <string name="title_activity_fragments">FragmentsActivity</string>
+    <string name="title_activity_intents">IntentsActivity</string>
+    <string name="title_activity_my_browser">MyBrowserActivity</string>
+    <string name="title_activity_notification_view">NotificationView</string>
+    <string name="title_activity_notifications">NotificationsActivity</string>
 
 </resources>
