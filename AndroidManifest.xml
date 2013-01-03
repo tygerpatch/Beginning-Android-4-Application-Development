@@ -50,7 +50,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.UsingIntentActivity"
+            android:name="net.learn2develop.UsingIntent.UsingIntentActivity"
             android:label="@string/title_activity_using_intent" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -59,7 +59,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.PassingDataActivity"
+            android:name="net.learn2develop.PassingData.PassingDataActivity"
             android:label="@string/title_activity_passing_data" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -68,12 +68,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.SecondActivity2"
+            android:name="net.learn2develop.PassingData.SecondActivity"
             android:label="@string/title_activity_second_activity2" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="net.learn2develop.PassingData.SecondActivity" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity

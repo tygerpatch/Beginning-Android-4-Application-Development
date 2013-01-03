@@ -17,7 +17,7 @@ public class PassingDataActivity extends Activity {
   }
 
   public void onClick(View view) {
-    Intent i = new Intent("net.learn2develop.PassingDataSecondActivity");
+    Intent i = new Intent("net.learn2develop.PassingData.SecondActivity");
 
     // ---use putExtra() to add new key/value pairs---
     i.putExtra("str1", "This is a string");

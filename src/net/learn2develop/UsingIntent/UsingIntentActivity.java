@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+// page 61
 public class UsingIntentActivity extends Activity {
   int request_Code = 1;
 
