@@ -107,7 +107,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.NotificationView"
+            android:name="net.learn2develop.Notifications.NotificationView"
             android:label="@string/title_activity_notification_view" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -116,7 +116,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.learn2develop.NotificationsActivity"
+            android:name="net.learn2develop.Notifications.NotificationsActivity"
             android:label="@string/title_activity_notifications" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
