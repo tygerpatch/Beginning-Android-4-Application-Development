@@ -20,5 +20,8 @@
     <!-- page 30 -->
     <string name="hello">Hello World, HelloWorldActivity!</string>
     <string name="title_activity_orientations">OrientationsActivity</string>
+    <string name="title_activity_my_action_bar">MyActionBarActivity</string>
+    <string name="title_activity_uicode">UICodeActivity</string>
+    <string name="title_activity_uiactivity">UIActivityActivity</string>
 
 </resources>

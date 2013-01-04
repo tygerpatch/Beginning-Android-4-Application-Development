@@ -15,7 +15,9 @@ public final class R {
     }
     public static final class id {
         public static final int WebView01=0x7f070009;
-        public static final int btnGetText=0x7f070012;
+        public static final int btn1=0x7f070012;
+        public static final int btn2=0x7f070013;
+        public static final int btnGetText=0x7f070015;
         public static final int btn_MainActivity=0x7f07000e;
         public static final int btn_OK=0x7f070010;
         public static final int btn_SecondActivity=0x7f07000d;
@@ -29,9 +31,10 @@ public final class R {
         public static final int btn_webbrowser=0x7f070005;
         public static final int fragment1=0x7f070003;
         public static final int fragment2=0x7f070004;
-        public static final int lblFragment1=0x7f070011;
-        public static final int menu_settings=0x7f070013;
+        public static final int lblFragment1=0x7f070014;
+        public static final int menu_settings=0x7f070016;
         public static final int toggle1=0x7f07000c;
+        public static final int txt1=0x7f070011;
         public static final int txtField1=0x7f07000b;
         public static final int txt_username=0x7f07000f;
     }
@@ -41,16 +44,19 @@ public final class R {
         public static final int activity_fragments=0x7f030002;
         public static final int activity_hello_world=0x7f030003;
         public static final int activity_intents=0x7f030004;
-        public static final int activity_my_browser=0x7f030005;
-        public static final int activity_notification_view=0x7f030006;
-        public static final int activity_notifications=0x7f030007;
-        public static final int activity_orientations=0x7f030008;
-        public static final int activity_passing_data=0x7f030009;
-        public static final int activity_passingdata_second_activity=0x7f03000a;
-        public static final int activity_second=0x7f03000b;
-        public static final int activity_using_intent=0x7f03000c;
-        public static final int fragment1=0x7f03000d;
-        public static final int fragment2=0x7f03000e;
+        public static final int activity_my_action_bar=0x7f030005;
+        public static final int activity_my_browser=0x7f030006;
+        public static final int activity_notification_view=0x7f030007;
+        public static final int activity_notifications=0x7f030008;
+        public static final int activity_orientations=0x7f030009;
+        public static final int activity_passing_data=0x7f03000a;
+        public static final int activity_passingdata_second_activity=0x7f03000b;
+        public static final int activity_second=0x7f03000c;
+        public static final int activity_uiactivity=0x7f03000d;
+        public static final int activity_uicode=0x7f03000e;
+        public static final int activity_using_intent=0x7f03000f;
+        public static final int fragment1=0x7f030010;
+        public static final int fragment2=0x7f030011;
     }
     public static final class menu {
         public static final int activity_activity101=0x7f060000;
@@ -58,14 +64,17 @@ public final class R {
         public static final int activity_fragments=0x7f060002;
         public static final int activity_hello_world=0x7f060003;
         public static final int activity_intents=0x7f060004;
-        public static final int activity_my_browser=0x7f060005;
-        public static final int activity_notification_view=0x7f060006;
-        public static final int activity_notifications=0x7f060007;
-        public static final int activity_orientations=0x7f060008;
-        public static final int activity_passing_data=0x7f060009;
-        public static final int activity_second=0x7f06000a;
-        public static final int activity_second_activity2=0x7f06000b;
-        public static final int activity_using_intent=0x7f06000c;
+        public static final int activity_my_action_bar=0x7f060005;
+        public static final int activity_my_browser=0x7f060006;
+        public static final int activity_notification_view=0x7f060007;
+        public static final int activity_notifications=0x7f060008;
+        public static final int activity_orientations=0x7f060009;
+        public static final int activity_passing_data=0x7f06000a;
+        public static final int activity_second=0x7f06000b;
+        public static final int activity_second_activity2=0x7f06000c;
+        public static final int activity_uiactivity=0x7f06000d;
+        public static final int activity_uicode=0x7f06000e;
+        public static final int activity_using_intent=0x7f06000f;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
@@ -79,6 +88,7 @@ public final class R {
         public static final int title_activity_fragments=0x7f04000a;
         public static final int title_activity_hello_world=0x7f040003;
         public static final int title_activity_intents=0x7f04000b;
+        public static final int title_activity_my_action_bar=0x7f040011;
         public static final int title_activity_my_browser=0x7f04000c;
         public static final int title_activity_notification_view=0x7f04000d;
         public static final int title_activity_notifications=0x7f04000e;
@@ -86,6 +96,8 @@ public final class R {
         public static final int title_activity_passing_data=0x7f040008;
         public static final int title_activity_second=0x7f040006;
         public static final int title_activity_second_activity2=0x7f040009;
+        public static final int title_activity_uiactivity=0x7f040013;
+        public static final int title_activity_uicode=0x7f040012;
         public static final int title_activity_using_intent=0x7f040007;
     }
     public static final class style {
