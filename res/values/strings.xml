@@ -17,6 +17,8 @@
     <string name="title_activity_notification_view">NotificationView</string>
     <string name="title_activity_notifications">NotificationsActivity</string>
 
-    <!--  page 30 -->
+    <!-- page 30 -->
     <string name="hello">Hello World, HelloWorldActivity!</string>
+    <string name="title_activity_orientations">OrientationsActivity</string>
+
 </resources>
